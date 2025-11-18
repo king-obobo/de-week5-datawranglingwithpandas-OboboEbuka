@@ -6,7 +6,7 @@
         "avg_resolution_sla_mins":136.4486637931,
         "avg_response_sla_seconds":238.6853448276,
         "resolution_pass_rate":59.05,
-        "response_pass_rate":25.43,
+        "response_pass_rate":24.14,
         "rank_by_resolution":5.0,
         "rank_by_response":1.0
     },
@@ -17,9 +17,9 @@
         "avg_resolution_sla_mins":145.1738425926,
         "avg_response_sla_seconds":275.0694444444,
         "resolution_pass_rate":60.19,
-        "response_pass_rate":18.52,
+        "response_pass_rate":18.06,
         "rank_by_resolution":3.0,
-        "rank_by_response":4.0
+        "rank_by_response":2.0
     },
     {
         "Manager":"Kerry",
@@ -28,7 +28,7 @@
         "avg_resolution_sla_mins":137.531255814,
         "avg_response_sla_seconds":283.423255814,
         "resolution_pass_rate":61.86,
-        "response_pass_rate":17.67,
+        "response_pass_rate":17.21,
         "rank_by_resolution":1.0,
         "rank_by_response":5.0
     },
@@ -39,9 +39,9 @@
         "avg_resolution_sla_mins":148.2730597015,
         "avg_response_sla_seconds":261.328358209,
         "resolution_pass_rate":55.6,
-        "response_pass_rate":18.66,
+        "response_pass_rate":17.54,
         "rank_by_resolution":7.0,
-        "rank_by_response":2.0
+        "rank_by_response":3.0
     },
     {
         "Manager":"Kerry",
@@ -50,9 +50,9 @@
         "avg_resolution_sla_mins":144.7186013986,
         "avg_response_sla_seconds":297.2132867133,
         "resolution_pass_rate":57.34,
-        "response_pass_rate":18.53,
+        "response_pass_rate":17.48,
         "rank_by_resolution":6.0,
-        "rank_by_response":3.0
+        "rank_by_response":4.0
     },
     {
         "Manager":"Kerry",
@@ -61,9 +61,9 @@
         "avg_resolution_sla_mins":144.9000421941,
         "avg_response_sla_seconds":273.447257384,
         "resolution_pass_rate":59.49,
-        "response_pass_rate":16.88,
+        "response_pass_rate":16.03,
         "rank_by_resolution":4.0,
-        "rank_by_response":6.0
+        "rank_by_response":7.0
     },
     {
         "Manager":"Kerry",
@@ -72,9 +72,9 @@
         "avg_resolution_sla_mins":138.2965055762,
         "avg_response_sla_seconds":273.2267657993,
         "resolution_pass_rate":61.71,
-        "response_pass_rate":16.73,
+        "response_pass_rate":16.36,
         "rank_by_resolution":2.0,
-        "rank_by_response":7.0
+        "rank_by_response":6.0
     },
     {
         "Manager":"Seun",
@@ -94,7 +94,7 @@
         "avg_resolution_sla_mins":166.8693548387,
         "avg_response_sla_seconds":305.9462365591,
         "resolution_pass_rate":47.31,
-        "response_pass_rate":16.13,
+        "response_pass_rate":15.05,
         "rank_by_resolution":7.0,
         "rank_by_response":6.0
     },
@@ -105,7 +105,7 @@
         "avg_resolution_sla_mins":150.8700689655,
         "avg_response_sla_seconds":263.1034482759,
         "resolution_pass_rate":53.1,
-        "response_pass_rate":20.0,
+        "response_pass_rate":19.31,
         "rank_by_resolution":6.0,
         "rank_by_response":2.0
     },
@@ -116,7 +116,7 @@
         "avg_resolution_sla_mins":143.55,
         "avg_response_sla_seconds":262.9247311828,
         "resolution_pass_rate":58.06,
-        "response_pass_rate":18.28,
+        "response_pass_rate":17.2,
         "rank_by_resolution":3.0,
         "rank_by_response":4.0
     },
@@ -138,9 +138,9 @@
         "avg_resolution_sla_mins":149.4200819672,
         "avg_response_sla_seconds":272.8032786885,
         "resolution_pass_rate":55.74,
-        "response_pass_rate":18.03,
+        "response_pass_rate":17.21,
         "rank_by_resolution":5.0,
-        "rank_by_response":5.0
+        "rank_by_response":3.0
     },
     {
         "Manager":"Seun",
@@ -149,9 +149,9 @@
         "avg_resolution_sla_mins":132.6894736842,
         "avg_response_sla_seconds":274.3684210526,
         "resolution_pass_rate":63.82,
-        "response_pass_rate":18.42,
+        "response_pass_rate":17.11,
         "rank_by_resolution":2.0,
-        "rank_by_response":3.0
+        "rank_by_response":5.0
     },
     {
         "Manager":"Victor",
@@ -160,7 +160,7 @@
         "avg_resolution_sla_mins":145.7474742268,
         "avg_response_sla_seconds":297.1984536082,
         "resolution_pass_rate":59.79,
-        "response_pass_rate":17.53,
+        "response_pass_rate":17.01,
         "rank_by_resolution":2.0,
         "rank_by_response":4.0
     },
@@ -171,7 +171,7 @@
         "avg_resolution_sla_mins":142.655258216,
         "avg_response_sla_seconds":274.7746478873,
         "resolution_pass_rate":61.74,
-        "response_pass_rate":15.96,
+        "response_pass_rate":15.49,
         "rank_by_resolution":1.0,
         "rank_by_response":7.0
     },
@@ -182,9 +182,9 @@
         "avg_resolution_sla_mins":145.5301511335,
         "avg_response_sla_seconds":264.6146095718,
         "resolution_pass_rate":56.17,
-        "response_pass_rate":20.15,
+        "response_pass_rate":17.88,
         "rank_by_resolution":6.0,
-        "rank_by_response":1.0
+        "rank_by_response":3.0
     },
     {
         "Manager":"Victor",
@@ -193,7 +193,7 @@
         "avg_resolution_sla_mins":150.629253012,
         "avg_response_sla_seconds":274.5614457831,
         "resolution_pass_rate":56.14,
-        "response_pass_rate":17.11,
+        "response_pass_rate":16.87,
         "rank_by_resolution":7.0,
         "rank_by_response":5.0
     },
@@ -204,9 +204,9 @@
         "avg_resolution_sla_mins":147.2475263158,
         "avg_response_sla_seconds":272.5394736842,
         "resolution_pass_rate":56.84,
-        "response_pass_rate":19.47,
+        "response_pass_rate":19.21,
         "rank_by_resolution":4.0,
-        "rank_by_response":2.0
+        "rank_by_response":1.0
     },
     {
         "Manager":"Victor",
@@ -215,9 +215,9 @@
         "avg_resolution_sla_mins":148.286127451,
         "avg_response_sla_seconds":259.0049019608,
         "resolution_pass_rate":56.37,
-        "response_pass_rate":19.36,
+        "response_pass_rate":18.63,
         "rank_by_resolution":5.0,
-        "rank_by_response":3.0
+        "rank_by_response":2.0
     },
     {
         "Manager":"Victor",
@@ -226,7 +226,7 @@
         "avg_resolution_sla_mins":151.4146721311,
         "avg_response_sla_seconds":288.1202185792,
         "resolution_pass_rate":57.65,
-        "response_pass_rate":16.12,
+        "response_pass_rate":15.57,
         "rank_by_resolution":3.0,
         "rank_by_response":6.0
     },
@@ -237,9 +237,9 @@
         "avg_resolution_sla_mins":155.315,
         "avg_response_sla_seconds":321.2391304348,
         "resolution_pass_rate":56.52,
-        "response_pass_rate":13.04,
+        "response_pass_rate":10.87,
         "rank_by_resolution":5.0,
-        "rank_by_response":6.0
+        "rank_by_response":7.0
     },
     {
         "Manager":"Wale",
@@ -248,9 +248,9 @@
         "avg_resolution_sla_mins":128.3683076923,
         "avg_response_sla_seconds":275.0153846154,
         "resolution_pass_rate":61.54,
-        "response_pass_rate":18.46,
+        "response_pass_rate":16.92,
         "rank_by_resolution":3.0,
-        "rank_by_response":3.0
+        "rank_by_response":4.0
     },
     {
         "Manager":"Wale",
@@ -261,7 +261,7 @@
         "resolution_pass_rate":54.24,
         "response_pass_rate":16.95,
         "rank_by_resolution":7.0,
-        "rank_by_response":4.0
+        "rank_by_response":3.0
     },
     {
         "Manager":"Wale",
@@ -281,7 +281,7 @@
         "avg_resolution_sla_mins":126.9628318584,
         "avg_response_sla_seconds":235.2300884956,
         "resolution_pass_rate":61.95,
-        "response_pass_rate":25.66,
+        "response_pass_rate":23.89,
         "rank_by_resolution":1.0,
         "rank_by_response":1.0
     },
@@ -294,7 +294,7 @@
         "resolution_pass_rate":57.89,
         "response_pass_rate":12.63,
         "rank_by_resolution":4.0,
-        "rank_by_response":7.0
+        "rank_by_response":6.0
     },
     {
         "Manager":"Wale",
@@ -303,7 +303,7 @@
         "avg_resolution_sla_mins":140.8043537415,
         "avg_response_sla_seconds":265.2789115646,
         "resolution_pass_rate":61.9,
-        "response_pass_rate":20.41,
+        "response_pass_rate":19.05,
         "rank_by_resolution":2.0,
         "rank_by_response":2.0
     }

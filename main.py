@@ -3,6 +3,7 @@ from pipeline.analysis import Analyzer
 from pprint import pprint
 import pandas as pd
 import numpy as np
+from pipeline.plots import Plot
 
 def main():
     # Loading my ETL class
@@ -52,6 +53,8 @@ def main():
     escalations.to_csv("reports/escalations.csv", index=False)
     print("Exported the Escalations Successfully")
     
+    plotter = Plot()
+    plotter.save_weekly_charts(weekly_kpis, "reports/")
 
 
 if __name__ == "__main__":

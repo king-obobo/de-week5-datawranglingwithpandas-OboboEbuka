@@ -50,7 +50,7 @@ class ETL:
         df["Resolution Catgory"] = pd.cut(df["Resolution SLA (Mins)"], bins = bins, labels= labels, right=False)
         
         # All issues must be responded within 10 seconds of ticket initiation
-        df["Response SLA pass"] = np.where(df["Resp SLA (Seconds)"] <= 15, "pass", "fail")
+        df["Response SLA pass"] = np.where(df["Resp SLA (Seconds)"] <= 10, "pass", "fail")
 
         # All issues must be resolved within 3 hours of respons
         df["Resolution SLA pass"] = np.where(df["Resolution SLA (Mins)"] <= 180, "pass", "fail")
