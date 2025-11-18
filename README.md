@@ -1,6 +1,4 @@
-###TODO: 
-
-## Project summary (1 paragraph)
+## Project summary
 This project analyzes how well Zentel’s customer support centers perform against their Service Level Agreements (SLAs) and identify key areas of improvement using the data provided. Zentel Network Services is an imaginary leading telecommunications provider. Within its customer experience, customers log their different types of complaints across their branches and expect quick responses and resolutions to their queries.
 
 Some of these customers have a Service level agreement with the Network service provider to resolve their daily queries within a particular average duration.
@@ -16,6 +14,11 @@ Then run the command
 uv sync
 ```
 This command is used to align your current Python environment with the dependencies specified in your project’s pyproject.toml
+
+In the parent directory, run the command:
+```
+uv run main.py
+```
 
 ## Explanation of results and and a very brief summary of your approach
 * A look at the **total tickets per week** shows an increase in the number of tickets over week, with the total tickets being the highest on the third week. This is however followed by a sharp decline (possibly due to poor services) during the last week.
